@@ -1,20 +1,28 @@
 # Nhận xét nhóm 4C - Alexa Skill
 
-## Người dùng sản phẩm
+1. Ưu điểm
 
-- Chức năng quá đơn giản (chỉ có 1)
-- Text trong giao diện trên echosim.io bị đè nhau, không nhìn rõ trạng thái khi test
-- Không test được, khi test theo hướng dẫn luôn xuất hiện thông báo "Try again..."
+1.1. Quan điểm người dùng sản phẩm
 
-## Người phát triển
+- Giao diện đơn giản dễ sử dụng
+- 
+1.2. Người phát triển
 
-- Tài liệu hướng dẫn viết Skill đầy đủ, dễ hiểu
-- Hướng dẫn test skill sơ sài
-- Code dễ hiểu, có comment đầy đủ
+- Có tài liệu hướng dẫn và README rõ ràng
+- Code rõ ràng, có comment đầy đủ
 
-## Bổ sung
+2. Nhược điểm
 
-- Sản phẩm cần có thêm tính năng
-- Các thông báo, pre-loading cần rõ ràng hơn. Giao diện cần chau chuốt hơn.
+2.1. Quan điểm người dùng
+ 
+- Chức năng đơn giản (chỉ có 1)
+- Không phân biệt được khi nào ghi lại test skill và khi nào hỏi
+- Không xử lý được trường hợp đọc sai cú pháp lệnh/ phát âm sai hoặc gần tương tự
+
+2.2. Quan điểm người phát triển
+
+3. Bổ sung
 - Cần phát triển thêm data cho Alexa.
 - Cần xây dựng các chức năng theo các chủ đề.
+
+
