@@ -22,6 +22,7 @@
 2.2. Quan điểm người phát triển
 
 3. Bổ sung
+
 - Cần phát triển thêm data cho Alexa.
 - Cần xây dựng các chức năng theo các chủ đề.
 
